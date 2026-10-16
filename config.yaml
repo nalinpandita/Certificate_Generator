@@ -1,0 +1,11 @@
+template:
+  path: templates/certificate.html
+fixed_fields:
+  course_name: "Generative AI with LangGraph"      # replace with your real course
+  instructor_name: "Dr. Meera Nair"                # replace with your real instructor
+timezone: Asia/Kolkata
+date_format: "%d %B %Y"
+time_format: "%I:%M %p"
+output_dir: output
+max_render_retries: 2
+max_clarify_rounds: 3
